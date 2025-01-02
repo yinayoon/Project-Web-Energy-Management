@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/01. Main Scene/Main Scene (Choice Floor).unity
+    guid: 4cd3844514f473c4eb5d68b1a54442da
+  - enabled: 1
+    path: Assets/Scenes/02. Automatic Scene/Automatic Scene 3.unity
+    guid: 0b1d0c594edf2774cbedc34a506b73af
+  - enabled: 1
+    path: Assets/Scenes/02. Automatic Scene/Automatic Scene 4.unity
+    guid: c098293d79d8f1c419e73bc5f3c76c04
+  - enabled: 1
+    path: Assets/Scenes/03. Manual Scene/Manual Scene 3.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/03. Manual Scene/Manual Scene 4.unity
+    guid: e2c585b8bbe3c564eb22211aed6887f8
+  - enabled: 1
+    path: Assets/Scenes/04. Move Space/MoveSpace 4.unity
+    guid: 46cc68c6109439842bd3b2caaa08e147
+  - enabled: 1
+    path: Assets/Scenes/04. Move Space/MoveSpace 3.unity
+    guid: 77a7a3c9951716542883a7b35f9bc93d
+  m_configObjects: {}
